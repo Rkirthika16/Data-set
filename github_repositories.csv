@@ -1,0 +1,4 @@
+repo_name,owner,stars,forks,language,topics,created_at,last_update,open_issues,description
+openai/gpt-5,openai,52000,4800,Python,"ai, nlp, llm",2023-04-12,2025-09-30,120,A state-of-the-art language model.
+facebook/react,facebook,220000,45000,JavaScript,"frontend, ui, framework",2013-05-24,2025-09-29,980,A declarative JavaScript library for building user interfaces.
+tensorflow/tensorflow,tensorflow,190000,88000,C++,"machine-learning, deep-learning",2015-11-09,2025-09-28,1700,An end-to-end open source platform for machine learning.
